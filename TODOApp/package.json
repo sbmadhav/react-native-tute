@@ -1,0 +1,12 @@
+{
+  "name": "simpleTodo",
+  "version": "0.0.1",
+  "author" : "sbmadhav",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.11.4"
+  }
+}
